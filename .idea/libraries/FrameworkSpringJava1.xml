@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FrameworkSpringJava1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FrameworkSpringJava/out/artifacts/FrameworkSpringJava_jar/FrameworkSpringJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
