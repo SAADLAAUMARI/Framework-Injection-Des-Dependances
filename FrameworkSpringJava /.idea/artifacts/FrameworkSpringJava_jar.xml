@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FrameworkSpringJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FrameworkSpringJava_jar</output-path>
+    <root id="archive" name="FrameworkSpringJava.jar">
+      <element id="module-output" name="FrameworkSpringJava" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jaxb-api-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
