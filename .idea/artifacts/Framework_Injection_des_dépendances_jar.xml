@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Framework Injection des dépendance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Framework_Injection_des_dépendance_jar</output-path>
+    <root id="archive" name="Framework Injection des dépendance.jar">
+      <element id="module-output" name="Framework Injection des dépendance" />
+      <element id="module-output" name="TestFrameworkISpringJava" />
+      <element id="library" level="project" name="FrameworkSpringJava1" />
+      <element id="library" level="project" name="jaxb-api-2.3.1" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/TestFrameworkISpringJava/FrameworkSpringJava.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/FrameworkSpringJava/jaxb-api-2.3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
